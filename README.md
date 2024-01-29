@@ -13,6 +13,12 @@
 - [ ] #1 Formal Email Writing
 - [ ] #2 Formal English Communication
 
+**_4. Habbit to be Developed in 2024_**
+- [ ] #1 Daily At least 30 mins Intense Excercise.
+- [ ] #2 Daily 3 Litter Water Intake.
+- [ ] #3 Join 5 AM Club.
+- [ ] #4 Read Book for 5 Pages Regularly.
+
 **_4. Essential Skill to be Developed in 2025_**
 - [ ] #3 System Design (Jan 2025 - Jun 2025)
 
