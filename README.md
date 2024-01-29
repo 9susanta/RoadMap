@@ -1,4 +1,4 @@
-# Road Map to Become for Next 3 Years.
+# Road Map for Next 3 Years.
 **_1. Essential Skill to be Developed in 2024_**
 - [ ] #1 Dev Ops (Jan 2024 - Jun 2024)
 - [ ] #2 AI (July 2024 - Dec 2024)
